@@ -14,7 +14,7 @@ import json, time, traceback
 from urllib import request, parse, error
 
 # 🔑 Your Telegram Bot API Token
-TOKEN = "8256092696:AAHEQ7EA3bOQ2VP5OW1ZP8kLCHktHGJvrrQ"
+TOKEN = "Your Token"
 API_URL = f"https://api.telegram.org/bot{TOKEN}/"
 CG_API = "https://api.coingecko.com/api/v3"
 FIAT = "usd"
