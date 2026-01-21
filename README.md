@@ -1,1 +1,1 @@
-#!/usr/bin/env python
+This is a trail project 
